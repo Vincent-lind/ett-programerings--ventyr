@@ -1,0 +1,14 @@
+c:\Users\Vincent.Lind\Documents\prog1\ett programerings äventyr\ett programerings äventyr\bin\Debug\net8.0\ett programerings äventyr.exe
+c:\Users\Vincent.Lind\Documents\prog1\ett programerings äventyr\ett programerings äventyr\bin\Debug\net8.0\ett programerings äventyr.deps.json
+c:\Users\Vincent.Lind\Documents\prog1\ett programerings äventyr\ett programerings äventyr\bin\Debug\net8.0\ett programerings äventyr.runtimeconfig.json
+c:\Users\Vincent.Lind\Documents\prog1\ett programerings äventyr\ett programerings äventyr\bin\Debug\net8.0\ett programerings äventyr.dll
+c:\Users\Vincent.Lind\Documents\prog1\ett programerings äventyr\ett programerings äventyr\bin\Debug\net8.0\ett programerings äventyr.pdb
+c:\Users\Vincent.Lind\Documents\prog1\ett programerings äventyr\ett programerings äventyr\obj\Debug\net8.0\ett programerings äventyr.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Vincent.Lind\Documents\prog1\ett programerings äventyr\ett programerings äventyr\obj\Debug\net8.0\ett programerings äventyr.AssemblyInfoInputs.cache
+c:\Users\Vincent.Lind\Documents\prog1\ett programerings äventyr\ett programerings äventyr\obj\Debug\net8.0\ett programerings äventyr.AssemblyInfo.cs
+c:\Users\Vincent.Lind\Documents\prog1\ett programerings äventyr\ett programerings äventyr\obj\Debug\net8.0\ett programerings äventyr.csproj.CoreCompileInputs.cache
+c:\Users\Vincent.Lind\Documents\prog1\ett programerings äventyr\ett programerings äventyr\obj\Debug\net8.0\ett programerings äventyr.dll
+c:\Users\Vincent.Lind\Documents\prog1\ett programerings äventyr\ett programerings äventyr\obj\Debug\net8.0\refint\ett programerings äventyr.dll
+c:\Users\Vincent.Lind\Documents\prog1\ett programerings äventyr\ett programerings äventyr\obj\Debug\net8.0\ett programerings äventyr.pdb
+c:\Users\Vincent.Lind\Documents\prog1\ett programerings äventyr\ett programerings äventyr\obj\Debug\net8.0\ett programerings äventyr.genruntimeconfig.cache
+c:\Users\Vincent.Lind\Documents\prog1\ett programerings äventyr\ett programerings äventyr\obj\Debug\net8.0\ref\ett programerings äventyr.dll
